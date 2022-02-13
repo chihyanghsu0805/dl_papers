@@ -7,6 +7,10 @@ ICCV 2021:
     - https://arxiv.org/pdf/2104.13369.pdf
     - https://explaining-in-style.github.io/
 
+NIPS 2021:
+- Do Vision Transformers See Like Convolutional Neural Networks?
+    - https://arxiv.org/abs/2108.08810
+    
 CVPR 2020:
 - Learning Texture Transformer Network for Image Super-Resolution
     - https://arxiv.org/abs/2006.04139
