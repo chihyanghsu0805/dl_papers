@@ -17,5 +17,5 @@ CVPR 2020:
     - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
 
 Google AI Blog:
-- Accurate Alpha Matting for Portrait Mode Selfies on Pixel 6
+- [X] Accurate Alpha Matting for Portrait Mode Selfies on Pixel 6
     - https://ai.googleblog.com/2022/01/accurate-alpha-matting-for-portrait.html
