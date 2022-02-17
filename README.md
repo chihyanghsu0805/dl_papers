@@ -28,6 +28,10 @@ CVPR 2020:
     - https://arxiv.org/abs/2004.09484
     - https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
 
+PMLR 2017:
+- Axiomatic Attribution for Deep Networks
+    - https://arxiv.org/abs/1703.01365
+
 Google AI Blog:
 - [X] Accurate Alpha Matting for Portrait Mode Selfies on Pixel 6
     - https://ai.googleblog.com/2022/01/accurate-alpha-matting-for-portrait.html
