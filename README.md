@@ -18,16 +18,12 @@ NIPS:
 - 2021:
     - Do Vision Transformers See Like Convolutional Neural Networks?
         - https://arxiv.org/abs/2108.08810
-<<<<<<< HEAD
 
     - MLP-Mixer: An all-MLP Architecture for Vision
         - https://arxiv.org/pdf/2105.01601.pdf
         - https://github.com/google-research/vision_transformer
         
     2020:
-=======
-- 2020:
->>>>>>> 002b4885d644f088baeb11580367d9b9e5b610e8
     - Debugging Tests for Model Explanations
         - https://arxiv.org/abs/2011.05429
 
