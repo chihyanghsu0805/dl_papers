@@ -16,6 +16,10 @@ NIPS 2021:
     - https://arxiv.org/abs/2108.08810
 
 CVPR 2020:
+- Self-training with Noisy Student improves ImageNet classification
+    - https://arxiv.org/abs/1911.04252
+    - https://github.com/google-research/noisystudent
+
 - Learning Texture Transformer Network for Image Super-Resolution
     - https://arxiv.org/abs/2006.04139
     - https://github.com/researchmm/TTSR
